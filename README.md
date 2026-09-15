@@ -26,7 +26,7 @@ The following issues were identified during the initial inspection:
 - Missing values in numeric and categorical fields
 - Invalid or missing transaction dates
 - Duplicate records check
-- 
+
 ## 🧹 Data Cleaning Process
 
 The dataset was cleaned and transformed using **Power Query**.
